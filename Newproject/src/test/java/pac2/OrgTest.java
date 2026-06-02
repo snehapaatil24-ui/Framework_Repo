@@ -14,10 +14,10 @@ public class OrgTest {
 		System.out.println(BROWSER);
 		System.out.println(USERNAME);
 		System.out.println(PASSWORD);
-		System.out.println("execute createorgtest ");
+		System.out.println("execute createorgtest");
 	}
 	@Test
 	public void modifyorgtest() {
-		System.out.println("execute modifyorgtest ");
+		System.out.println("execute modifyorgtest");
 	}
 }
